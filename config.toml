@@ -1,0 +1,4 @@
+baseURL = "https://jam.tips/"
+languageCode = "en-us"
+title = "JAMtips"
+theme = "hugo-theme-novela"
